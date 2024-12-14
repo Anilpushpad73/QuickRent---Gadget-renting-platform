@@ -20,8 +20,8 @@ QuickRent is a modern web application that allows users to rent premium gadgets 
 
 ## Setup Instructions
 
-1. Clone the repository
-2. Install dependencies:
+
+1. Install dependencies:
    ```bash
    npm install
    ```
