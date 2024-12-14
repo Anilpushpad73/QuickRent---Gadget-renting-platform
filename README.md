@@ -1,3 +1,5 @@
+##deploy:
+website: https://quick-rent-gadget-renting-platform.vercel.app/
 # QuickRent - Gadget Rental Platform
 
 QuickRent is a modern web application that allows users to rent premium gadgets like laptops, cameras, and gaming consoles. The platform provides a seamless experience for both renters and gadget owners.
