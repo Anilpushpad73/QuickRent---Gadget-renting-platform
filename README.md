@@ -1,4 +1,4 @@
-## deploy:
+## Deploy:
 website: https://quick-rent-gadget-renting-platform.vercel.app/
 # QuickRent - Gadget Rental Platform
 
